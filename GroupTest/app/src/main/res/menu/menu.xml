@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list_view"
+        android:title="list_view">
+        <menu>
+            <item
+                android:id="@+id/listview_vertical_stander"
+                android:title="垂直标准" />
+            <item
+                android:id="@+id/listview_vertical_reverse"
+                android:title="垂直反向" />
+            <item
+                android:id="@+id/listview_horizontal_stander"
+                android:title="水平标准" />
+            <item
+                android:id="@+id/listview_horizontal_reverse_stander"
+                android:title="水平反向" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/grid_view"
+        android:title="grid_view">
+        <menu>
+            <item
+                android:id="@+id/gridview_vertical_stander"
+                android:title="垂直标准" />
+            <item
+                android:id="@+id/gridview_vertical_reverse"
+                android:title="垂直反向" />
+            <item
+                android:id="@+id/gridview_horizontal_stander"
+                android:title="水平标准" />
+            <item
+                android:id="@+id/gridview_horizontal_reverse_stander"
+                android:title="水平反向" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/stagger_view"
+        android:title="stagger_view">
+        <menu>
+            <item
+                android:id="@+id/stagger_vertical_stander"
+                android:title="垂直标准" />
+            <item
+                android:id="@+id/stagger_vertical_reverse"
+                android:title="垂直反向" />
+            <item
+                android:id="@+id/stagger_horizontal_stander"
+                android:title="水平标准" />
+            <item
+                android:id="@+id/stagger_horizontal_reverse_stander"
+                android:title="水平反向" />
+        </menu>
+    </item>
+</menu>

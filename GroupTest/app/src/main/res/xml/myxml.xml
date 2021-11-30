@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hello xmlns:android="http://schemas.android.com/apk/res/android">
+    <intent
+        android:action="android.intent.action.MY"
+        android:targetClass="com.xingin.recyclerviewtest.MainActivity2"></intent>
+    <intent
+        android:action="android.intent.action.MY1"
+        android:targetClass="com.xingin.recyclerviewtest.MainActivity3"></intent>
+</hello>
